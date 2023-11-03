@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\bin\Debug\net7.0\snakegame.exe
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\bin\Debug\net7.0\snakegame.deps.json
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\bin\Debug\net7.0\snakegame.runtimeconfig.json
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\bin\Debug\net7.0\snakegame.dll
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\bin\Debug\net7.0\snakegame.pdb
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.AssemblyInfo.cs
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.dll
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\refint\snakegame.dll
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.pdb
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\snakegame.genruntimeconfig.cache
+C:\Users\Asus\Desktop\yilan oyunu\snakegame\obj\Debug\net7.0\ref\snakegame.dll
